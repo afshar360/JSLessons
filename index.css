@@ -17,6 +17,13 @@ h2 {
     margin-bottom: 20px;
 }
 
+h3 {
+    font-size: 90px;
+    margin-top: 0;
+    margin-bottom: 20px;
+}
+
+
 button {
     border: none;
     padding-top: 10px;
