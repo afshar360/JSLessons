@@ -6,6 +6,8 @@ let count = 0
 
 incBtn.addEventListener('click', increment)
 decBtn.addEventListener('click', decrement)
+saveEl.addEventListener('click', save)
+
 
 function increment() {
     count += 1
